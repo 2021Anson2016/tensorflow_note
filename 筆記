@@ -1,6 +1,10 @@
-How to compile Tensorflow with SSE4.2 and AVX instructions?
-https://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions
-
 因為會出現下面錯誤：
 I tensorflow/core/platform/cpu_feature_guard.cc:137] 
 Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX
+
+
+How to compile Tensorflow with SSE4.2 and AVX instructions?
+https://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions
+
+安裝bazel
+https://docs.bazel.build/versions/master/install-ubuntu.html
