@@ -18,3 +18,15 @@ https://docs.bazel.build/versions/master/install-ubuntu.html
     式。此時按鍵可提供計算機功能 (包含常見數學運算符號 +、-、* 及 /)。當您需要輸入大量數字時,即可
     切換成此模式,以方便輸入數字。另一個更好的解決
     方法就是連接一個外接式數字鍵台。
+    
+    
+jupyter notebook快捷鍵
+    在cell旁邊為藍色時
+    按下x：刪除當前選擇的cell
+    按下a：在當前選擇的上方新增一個cell
+    按下b：在當前選擇的下方新增一個cell
+    按下Shift-Enter：執行當前的cell並且選到下一個cell
+    按下Ctrl-Enter：執行當前cell
+    按下M：轉成markerdown模式，可以看到紅色框框內容從code變成markerdown
+https://ithelp.ithome.com.tw/articles/10192614?sc=iThelpR
+http://opus.konghy.cn/ipynb/jupyter-notebook-keyboard-shortcut.html
