@@ -13,7 +13,7 @@ https://docs.bazel.build/versions/master/install-ubuntu.html
 
 安裝ubuntu 16.04發現方向键失效：
 解法如下:
-    鎖定鍵 Num Lock <Fn> + <F11> 即 按下 Fn 不放 再按下 F11 再按一次 F11 解鎖
+    鎖定鍵 Num Lock + <Fn> + <F11> , 即 按下 Fn 不放 再按下 F11 再按一次 F11 解鎖
     啟用 Num Lock 功能時,內嵌數字鍵台會變成數字模
     式。此時按鍵可提供計算機功能 (包含常見數學運算符號 +、-、* 及 /)。當您需要輸入大量數字時,即可
     切換成此模式,以方便輸入數字。另一個更好的解決
