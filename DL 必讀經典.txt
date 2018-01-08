@@ -1,0 +1,14 @@
+DL 必讀經典
+http://www.deeplearningbook.org/
+社群中文(簡)翻譯版:
+https://github.com/exacity/deeplearningbook-chinese
+D:\Destop\要讀資料\MATLAB實作NN.pdf
+http://ir.lib.ksu.edu.tw/bitstream/987654321/2527/5/%E5%B0%88%E9%A1%8C%E8%A3%BD%E4%BD%9C.pdf
+NVIDIA TESLA 和 QUADRO GPU 締造 MATLAB 加速佳績
+http://www.nvidia.com.tw/object/tesla-matlab-accelerations-tw.html
+
+cs231n
+http://cs231n.stanford.edu/syllabus.html
+https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=zh-tw#t-213165
+http://vision.stanford.edu/teaching/cs231n/index.html
+http://cs231n.github.io/
